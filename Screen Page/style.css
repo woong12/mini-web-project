@@ -1,0 +1,73 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+p {
+    margin: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+#main {
+    background: url(https://pixabay.com/get/gaff302305f7791eeedab8b4aee6538efe942597d668b01e06ea451974b9d0375e655f368d1fd4d50ee09df277b3df2d01b4a28f4bf28f28febd617ed508342a0a2af17e43fa72de4b09f388e91a59feb_1920.jpg)
+        no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 100vw;
+    height: 100vh;
+    font-family: "Questrial", sans-serif;
+}
+
+#contents {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+#contents h1 {
+    font-family: "Dancing Script", cursive;
+    font-size: 70px;
+    margin-bottom: 16px;
+}
+
+#contents p {
+    font-size: 23px;
+    margin-bottom: 16px;
+}
+
+#contents a {
+    display: inline-block;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 17px;
+    font-weight: bold;
+    transition: all 0.5s;
+}
+
+#contents a:hover {
+    background-color: black;
+}
+
+@media (max-width: 769px) {
+    #contents h1 {
+        font-size: 50px;
+    }
+
+    #contents p {
+        font-size: 20px;
+    }
+
+    #contents a {
+        font-size: 14px;
+    }
+}
