@@ -22,3 +22,6 @@ https://spontaneous-buttercream-13cc12.netlify.app/
 <br>
 -Icon Hover Effect
 https://glittering-longma-1e36af.netlify.app/
+<br>
+-instagram logo
+https://delightful-semolina-f1040a.netlify.app/
