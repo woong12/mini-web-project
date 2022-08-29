@@ -12,7 +12,7 @@ https://clinquant-bubblegum-7319af.netlify.app/
 https://tubular-medovik-cc808e.netlify.app/
 <br>
 -Screen Page
-https://ubiquitous-youtiao-6e40f1.netlify.app/
+https://screenpage.netlify.app/
 <br>
 -Wave Button
 https://beautiful-kleicha-e81d36.netlify.app/
