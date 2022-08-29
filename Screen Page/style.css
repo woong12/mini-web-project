@@ -15,7 +15,7 @@ a {
 }
 
 #main {
-    background: url(https://pixabay.com/get/gaff302305f7791eeedab8b4aee6538efe942597d668b01e06ea451974b9d0375e655f368d1fd4d50ee09df277b3df2d01b4a28f4bf28f28febd617ed508342a0a2af17e43fa72de4b09f388e91a59feb_1920.jpg)
+    background: url(https://pixabay.com/get/ga4f41f6c831bb59d91654c995729c43d1ad05536866d771180c12b5f5a3e0dc4a79379ffedfb846c22a6b92ba146a55f17e76ab9146f13e5aaec59eeb8f9a6651b20c3f1af26c9813471d429c4cedacb_1920.jpg)
         no-repeat;
     background-size: cover;
     background-position: center center;
@@ -36,17 +36,21 @@ a {
 #contents h1 {
     font-family: "Dancing Script", cursive;
     font-size: 70px;
+    color: black;
     margin-bottom: 16px;
 }
 
 #contents p {
     font-size: 23px;
+    color: black;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 16px;
 }
 
 #contents a {
+    color: black;
     display: inline-block;
-    border: 2px solid white;
+    border: 2px solid black;
     border-radius: 20px;
     padding: 10px 20px;
     font-size: 17px;
@@ -55,7 +59,7 @@ a {
 }
 
 #contents a:hover {
-    background-color: black;
+    background-color: white;
 }
 
 @media (max-width: 769px) {
