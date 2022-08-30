@@ -31,6 +31,9 @@ https://youtube-clon-e.netlify.app/
 <br>
 -Random Password Generater
 https://random-password-generater.netlify.app/
+<br>
+-Skeleton Loader
+https://skeleton-load-er.netlify.app/
 
 
 
