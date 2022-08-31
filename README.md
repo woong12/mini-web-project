@@ -38,7 +38,6 @@ https://skeleton-load-er.netlify.app/
 <hr>
 <h2>50 project</h2>
 <br>
-<br>
 -404 Error Page
 https://errorpage-404.netlify.app/
 
