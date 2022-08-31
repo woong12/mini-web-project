@@ -34,8 +34,11 @@ https://random-password-generater.netlify.app/
 <br>
 -Skeleton Loader
 https://skeleton-load-er.netlify.app/
+<br>
 <hr>
-
+<br>
+-404 Error Page
+https://errorpage-404.netlify.app/
 
 
 
