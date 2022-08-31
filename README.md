@@ -34,7 +34,7 @@ https://random-password-generater.netlify.app/
 <br>
 -Skeleton Loader
 https://skeleton-load-er.netlify.app/
-
+<hr>
 
 
 
