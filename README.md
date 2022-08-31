@@ -36,8 +36,7 @@ https://random-password-generater.netlify.app/
 https://skeleton-load-er.netlify.app/
 <br>
 <hr>
-<br>
-50 project
+<h1>50 project<h1>
 <br>
 <br>
 -404 Error Page
