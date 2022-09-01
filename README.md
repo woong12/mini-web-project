@@ -38,6 +38,9 @@ https://skeleton-load-er.netlify.app/
 -landing page
 https://landing-page-c8b1d.netlify.app/
 <br>
+-calculator
+https://calculator-moonbeam-eaa063.netlify.app/
+<br>
 <hr>
 <h2>50 project</h2>
 <br>
