@@ -35,6 +35,9 @@ https://random-password-generater.netlify.app/
 -Skeleton Loader
 https://skeleton-load-er.netlify.app/
 <br>
+-landing page
+https://landing-page-c8b1d.netlify.app/
+<br>
 <hr>
 <h2>50 project</h2>
 <br>
