@@ -5,22 +5,21 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Copy and Paste</title>
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="style.css" />
     </head>
     <body>
-        <div class="container">
-            <textarea id="myInput" placeholder='Type the text...'</textarea>
-
-                <input placeholder="Paste here..." />
-                <button onclick="myFunction()" class="btn">Copy Text</button>
-        </div>
-        <script>
-            function myFunction() {
-                var copyText = document.getElementById("myInput");
-                copyText.select();
-                copyText.setselectionRange(0, 99999);
-                navigator.clipboard.writeText(copyText.value);
-            }
-        </script>
+        <h1>Copy in Clipboard with JavaScript</h1>
+        <textarea id="to-copy" spellcheck="false">
+Write something and copy it into your clipboard by clicking in the button below.</textarea
+        >
+        <button id="copy" type="button">
+            Copy in clipboard<span class="copiedtext" aria-hidden="true"
+                >Copied</span
+            >
+        </button>
+        <textarea
+            id="cleared"
+            placeholder="Paste your copied content here. Just to test…"
+        ></textarea>
     </body>
 </html>
