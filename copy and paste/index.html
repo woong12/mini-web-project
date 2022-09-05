@@ -9,9 +9,11 @@
     </head>
     <body>
         <h1>Copy in Clipboard with JavaScript</h1>
-        <textarea id="to-copy" spellcheck="false">
-Write something and copy it into your clipboard by clicking in the button below.</textarea
-        >
+        <textarea
+            id="to-copy"
+            spellcheck="false"
+            placeholder="Write something and copy it into your clipboard by clicking in the button below."
+        ></textarea>
         <button id="copy" type="button">
             Copy in clipboard<span class="copiedtext" aria-hidden="true"
                 >Copied</span
@@ -21,5 +23,6 @@ Write something and copy it into your clipboard by clicking in the button below.
             id="cleared"
             placeholder="Paste your copied content here. Just to test…"
         ></textarea>
+        <script src="script.js"></script>
     </body>
 </html>
