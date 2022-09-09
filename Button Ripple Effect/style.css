@@ -61,11 +61,11 @@ body {
     background: linear-gradient(-90deg, #f5ce62, #e85a19);
 }
 
-.btns a:first-child(2) {
+.btns a:nth-child(2) {
     background: linear-gradient(-90deg, #9827ff, #ee3939);
 }
 
-.btns a:first-child(3) {
+.btns a:last-child {
     background: linear-gradient(-90deg, #0162c8, #55e7fc);
 }
 
@@ -73,4 +73,30 @@ body {
     position: absolute;
     background: #fff;
     transform: translate(-50%, -50%);
+    border-radius: 50%;
+    pointer-events: none;
+    animation: ripples 0.6s linear infinite;
+}
+
+@keyframes ripples {
+    0% {
+        width: 0px;
+        height: 0px;
+        opacity: 0.5;
+    }
+
+    100% {
+        width: 500px;
+        height: 500px;
+        opacity: 0;
+    }
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100vh;
+    font-weight: 400;
+    background-color: rgba(255, 255, 255, 0.341);
+    color: black;
 }
