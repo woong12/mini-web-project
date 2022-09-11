@@ -29,6 +29,6 @@ let isAlive = setInterval(function () {
     }
 }, 10);
 
-document.addEventListener("click", function (event) {
+document.addEventListener("keydown", function (event) {
     jump();
 });
