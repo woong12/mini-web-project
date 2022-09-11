@@ -50,7 +50,7 @@ body {
     left: 580px; /*width of frame - width of cactus*/
     background-image: url(image/cactus.png);
     background-size: 20px 40px;
-    animation: cactus-block 1.2s infinite linear;
+    animation: cactus-block 1.5s infinite linear;
 }
 @keyframes cactus-block {
     0% {
